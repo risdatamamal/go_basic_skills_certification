@@ -1,1 +1,1 @@
-# go_basic_skills_certification
+# Go (basic) Skills Certification Hackerrank
